@@ -21,8 +21,8 @@ Built a one level mini game using utilities viz. pixi.min , bump and sprite.
 -Bachelor of Computer Application | K.C. Commerce College (_2017 - 2020_)
 
 ## Certifications
--CCNA
--Ethical Hacking and Penetration Testing
+    -CCNA<br>
+    -Ethical Hacking and Penetration Testing
 
 ## Languages
 English, Hindi, Bengali, Assamese
