@@ -3,7 +3,7 @@
 
 ## Expericence
 ### E-Yantra
- **Support Head** (_Feb 2022 - Jul 2023_)
+ **Support Head** (_Feb 2022 - Jul 2023_) <br>
     - Provided Level 1 technical support for software and hardware issues, ensuring adherence to service level agreements (SLAs) and achieving a **95% resolution rate**.
     - Managed help desk tickets, accurately escalating 20% of cases to Level 2 support for complex issues outside the scope of Level 1.
     - Diagnosed and resolved Cloud-related, hardware, and software problems for clients, contributing to a 30% reduction in average troubleshooting time.
